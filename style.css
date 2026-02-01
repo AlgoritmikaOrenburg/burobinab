@@ -1,1 +1,26 @@
+body {
+    font-family: sans-serif;
+}
 
+h1{
+    text-align: center;
+    margin: 2px;
+    border-radius: 20px;
+    background-color: beige;
+}
+
+li a{
+    border: 2px dotted yellow;
+    padding: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: rgb(255, 91, 91);
+}
+
+ol li{
+    margin: 15px;
+}
